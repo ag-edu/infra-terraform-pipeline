@@ -1,1 +1,0 @@
-bucket_name="ae-edu-lambda-orchestrator-bucket-prod"
