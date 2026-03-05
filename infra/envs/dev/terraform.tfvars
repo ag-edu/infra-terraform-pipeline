@@ -1,1 +1,1 @@
-bucket_name="dev-sa-east-1-buildrun-video-pipeline"
+bucket_name="ae-edu-lambda-orchestrator-bucket-dev"
