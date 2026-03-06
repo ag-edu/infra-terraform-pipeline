@@ -1,1 +1,2 @@
-bucket_name="prod-sa-east-1-buildrun-video-pipeline"
+environment = "dev"
+bucket_name="ae-edu-terraform-state-prod"
